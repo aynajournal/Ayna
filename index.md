@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Turkey continues to pursue what it lost following WW1
 
-You can use the [editor on GitHub](https://github.com/aynajournal/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As the world is watching the newest burst of violent conflict between Armenia and Azerbaijan, we cannot write it off as merely sectarian war. There is a larger, much more systematic actor at play in the shadows. This war is nothing more than a current continuation of the Armenian Genocide for Turkey to secure their dream of pan-Turkism that was destroyed by World War 1. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the same way that the Treaty of Versailles is blamed for causing the political, economic, and military conditions that led to the 1939-45 global conflict, researchers must start connecting Eurasian and Near Eastern political issues to World War 1 and the Treaty of Lausanne. 
 
-### Markdown
+The Ottoman Empire entered World War I in 1914 by a surprise attack against Russian ports in the Black Sea. The Turks’ entry into the war increased the Triple Entente’s military burdens as Russia was alone in fighting the Caucasus Campaign, Britain on the Persian Campaign, and France on the Western Front against the Germans. It was a risky move for the Ottoman Empire, who was already suffering the loss of many economic resources in the 1912-1913 Balkan Wars, the loss of nearly all their territories in Europe and a concurrent domestic civil unrest of those who wanted sultanism eradicated. This gamble ultimately did not pay off. Following the defeat of the Central Powers in 1918, the Ottoman Empire spent the next five years in negotiations to retain land and power. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Several treaties were introduced as solutions to end the fighting, including the Armistice of Mudros and the Treaty of Sèvres. These broke up Ottoman lands and created occupation zones in the area that humiliated and angered the Turks. The possibility of creating the established states of Armenia and Kurdistan was discussed, which would cede Erzerum, Trebizond, Van, Bitlis, Ağrı, and Muş to foreign powers. However, these terms emboldened Turkish nationalists, led by Mustafa Kemal Atatürk. They launched and ultimately won the Turkish War of Independence. The Treaty of Sèvres fell void as the Ottoman Empire signed it, not the new Republic of Turkey. The last Treaty of World War I--the Treaty of Lausanne (1923)--recognized the boundaries of the modern state of Turkey. To do so, Turkey had to renounce its claim to its former Arab provinces and formally recognize the British possession of Cyprus and the Italian possession of the Dodecanese. In return, the Allies dropped their demands of autonomy for Turkish Kurdistan and Turkish cession of territory to Armenia, imposed no controls over Turkey’s finances or armed forces, and abandoned all efforts to block shipping in the Turkish straits between the Aegean Sea and the Black Sea. Still infuriated with the loss of territory and economic mobility, the Turks agreed to these conditions but began setting their aspirations for dominance eastward and against the indigenous peoples that lived in their borders.
 
-```markdown
-Syntax highlighted code block
+In pursuit of their version of peace, the Allies enabled the downfall and destruction of the region’s ethnic minorities. Within the confines of the moralities of the Allies and the nation-state of Turkey, no legal or literal space for Armenia and Kurdistan could exist. 
 
-# Header 1
-## Header 2
-### Header 3
+During this time, distrust of the Armenians and the populistic need for Turkification were running high. In the time of great chaos from the war, the government began subsidizing the Armenians’ elimination. When the massacres and deportations finally ended in the early 1920s, between 600,000 and 1.5 million Armenians were dead, and many more had been forcibly removed from the country. Today, most historians call this event a genocide: a premeditated and systematic campaign to exterminate an entire people. It is often described as the first non-colonial genocide of the twentieth-century. Militants drowned people in rivers, they threw them off cliffs, crucified them, and burned them alive. Though reports vary, most sources agree that there were about 2 million Armenians in the Ottoman Empire at the time of the massacre. In 1922, when the genocide was over, only 388,000 Armenians remained. With no real representatives to fight for them, large swaths of Armenian land were handed over to the Turkish state. 
 
-- Bulleted
-- List
+During World War 1, Azerbaijan had declared their independence but with the Soviet forces’ invasion in 1920, all its dreams of autonomy were crushed. Enter the Ottoman Empire, which was desperately seeking to retain any regional influence in the Caucasus. Before the Empire collapsed, they struck a deal with Azeri nationalists to aid in a long-term strategy of establishing a state in return for assisting the Ottomans in the genocide of the region’s Armenian population. When Azerbaijan voted in two separate referendums to unify with Armenia in 1988 (leading to the eradication of the indigenous Armenian population of Artsakh), and for independence from the USSR in 1991, it was Turkey that was the first country to recognize Azerbaijan as an independent post-Soviet state and support its ethnic cleansing of Armenians. 
 
-1. Numbered
-2. List
+While it can be very enticing to say that Azerbaijan and Turkey are simply close allies due to their strong cultural, historical, and ethnic ties, that is naive. In reality, Turkey’s aim for a pan-Turkic region and staunch support for Azerbaijan is more about their recognition of Azerbaijan’s economic potential arising from the rich natural resources of the Caspian Sea and desire to once again rule as the seat of the Sultan for the Islamic world. This goal has been inherent since its founding and is much bigger than the agendas of the latest politicians and ruling parties.
 
-**Bold** and _Italic_ and `Code` text
+It is this vision that led to the Armenian genocide, and that has been codified in the philosophy of "one nation, two states." Armenia is a geopolitical obstacle in the pan-Turkic dream. It literally cuts the region in question into two separate parts. Its language and religious values make it one that can not be absolved into the ideal neo-empire. 
 
-[Link](url) and ![Image](src)
-```
+When we view Turkey’s hardline rhetoric against Armenia from this perspective, a larger pattern of gunboat diplomacy and conquest emerges. Take Turkey’s strategy in Syria where they prevented Kurdish militants from entrenching in a border region. Or in its former colony of Libya, it has sided with the Tripoli-based government to safeguard a maritime delimitation agreement. And especially in Greece and Cyprus, they have filled the eastern Mediterranean with warships to protect disputed waters. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aynajournal/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The Armenian-Azerbaijani conflict is nothing more than a proxy war for Turkey to expand its interests and assets. There is much at stake here, not just for the nation to secure the land but for the rights of the few remaining members of minorities who could lose even more protection. Turkey has spent the last 97 years trying to regain what Lausanne took away. Its continued pursuit of this infernal vision to expand its territory and power should once again
+be stopped.  
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is a testing page
